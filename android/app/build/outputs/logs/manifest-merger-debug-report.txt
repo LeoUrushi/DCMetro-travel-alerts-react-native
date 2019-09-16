@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c84875f86d301edce8c846220683f732/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/405e0dc0d0eebafa4f589e9029aab9a8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/08e6115cbb7301fdcc3621934b5d67cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ea690cb51c64434ff3ac121f7c35f5e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/8ef7112044cb5e469479430907a9518e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/95548f0c6908bd1477c2cd1687c6e7c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/3a0909d29ff85772bde1cc05db661777/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4d187a3529ac3840b344495de410b613/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/78974c4a17026fa197a62fc8e303a940/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4ea704f300d5e342b06dae5961f1860d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4c8e48008ac1976c98ab6d3f502d61ba/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/e884e078f4832932d813428806ef0214/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/a363ddacdc8c89c113dea0cc384e77bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/6e72177138b2bd148243d6e7a4762ae7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b435b0c7c1d18a5f03a90a03cd9dc23f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bb9d6f1f471ae8dcc402197cb01d2d47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/d447698bb9bcb7daa8b750c13f653016/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/348d639aea954826237bd2cf2a280e23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/9aac80becefa34b1f0f9a327b01c58cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c07f2fddb0a3dac32940ccbd435b22e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/de33f5074f2e7d7bd44972e36b2c9875/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ab775dc25f93f94b6dba62244ba9743e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b868bce1de70269e0c2593bcc8da244a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bc7bb2768ca375e4cc98a832d2471260/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/935a1f54cb7ba7a92abe2bf47888e7e2/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/afc6f08a37935ae32b969cf46348b0cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0dee0ae5380b1c657305ca1483efa053/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/81fd1cec9fe444b0c9f655c328be873c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/711235df2a2a19217093941ceb74f949/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0005d2ca222764f2bfcbc8bc283889a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/475aee6bf7d9d0931cc9d64493adc26a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/93c114a26f97a0fc4f9e9f5c6db183f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/542fc561b73499fe2e023dff79e96d8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/f8f1b246043c715fa73dc81eb6dcbee4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/98106f2707c53235d0a21ed9da615a85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/fc6bbb90ffb626d8424a4a418216b48d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c84875f86d301edce8c846220683f732/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c84875f86d301edce8c846220683f732/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4c8e48008ac1976c98ab6d3f502d61ba/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4c8e48008ac1976c98ab6d3f502d61ba/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/935a1f54cb7ba7a92abe2bf47888e7e2/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/935a1f54cb7ba7a92abe2bf47888e7e2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.dcmetrolive.MainActivity
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c84875f86d301edce8c846220683f732/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c84875f86d301edce8c846220683f732/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/405e0dc0d0eebafa4f589e9029aab9a8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/405e0dc0d0eebafa4f589e9029aab9a8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/08e6115cbb7301fdcc3621934b5d67cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/08e6115cbb7301fdcc3621934b5d67cd/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ea690cb51c64434ff3ac121f7c35f5e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ea690cb51c64434ff3ac121f7c35f5e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/8ef7112044cb5e469479430907a9518e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/8ef7112044cb5e469479430907a9518e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/95548f0c6908bd1477c2cd1687c6e7c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/95548f0c6908bd1477c2cd1687c6e7c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/3a0909d29ff85772bde1cc05db661777/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/3a0909d29ff85772bde1cc05db661777/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4d187a3529ac3840b344495de410b613/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4d187a3529ac3840b344495de410b613/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/78974c4a17026fa197a62fc8e303a940/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/78974c4a17026fa197a62fc8e303a940/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4ea704f300d5e342b06dae5961f1860d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4ea704f300d5e342b06dae5961f1860d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4c8e48008ac1976c98ab6d3f502d61ba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/4c8e48008ac1976c98ab6d3f502d61ba/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/e884e078f4832932d813428806ef0214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/e884e078f4832932d813428806ef0214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/a363ddacdc8c89c113dea0cc384e77bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/a363ddacdc8c89c113dea0cc384e77bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/6e72177138b2bd148243d6e7a4762ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/6e72177138b2bd148243d6e7a4762ae7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b435b0c7c1d18a5f03a90a03cd9dc23f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b435b0c7c1d18a5f03a90a03cd9dc23f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bb9d6f1f471ae8dcc402197cb01d2d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bb9d6f1f471ae8dcc402197cb01d2d47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/d447698bb9bcb7daa8b750c13f653016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/d447698bb9bcb7daa8b750c13f653016/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/348d639aea954826237bd2cf2a280e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/348d639aea954826237bd2cf2a280e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/9aac80becefa34b1f0f9a327b01c58cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/9aac80becefa34b1f0f9a327b01c58cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c07f2fddb0a3dac32940ccbd435b22e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c07f2fddb0a3dac32940ccbd435b22e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/de33f5074f2e7d7bd44972e36b2c9875/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/de33f5074f2e7d7bd44972e36b2c9875/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ab775dc25f93f94b6dba62244ba9743e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/ab775dc25f93f94b6dba62244ba9743e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b868bce1de70269e0c2593bcc8da244a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/b868bce1de70269e0c2593bcc8da244a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bc7bb2768ca375e4cc98a832d2471260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/bc7bb2768ca375e4cc98a832d2471260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/c69e6e9fe7be9469ae11b054c2a68411/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/935a1f54cb7ba7a92abe2bf47888e7e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/935a1f54cb7ba7a92abe2bf47888e7e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/afc6f08a37935ae32b969cf46348b0cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/afc6f08a37935ae32b969cf46348b0cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0dee0ae5380b1c657305ca1483efa053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0dee0ae5380b1c657305ca1483efa053/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/81fd1cec9fe444b0c9f655c328be873c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/81fd1cec9fe444b0c9f655c328be873c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/711235df2a2a19217093941ceb74f949/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/711235df2a2a19217093941ceb74f949/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0005d2ca222764f2bfcbc8bc283889a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/0005d2ca222764f2bfcbc8bc283889a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/475aee6bf7d9d0931cc9d64493adc26a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/475aee6bf7d9d0931cc9d64493adc26a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/93c114a26f97a0fc4f9e9f5c6db183f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/93c114a26f97a0fc4f9e9f5c6db183f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/542fc561b73499fe2e023dff79e96d8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/542fc561b73499fe2e023dff79e96d8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/f8f1b246043c715fa73dc81eb6dcbee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/f8f1b246043c715fa73dc81eb6dcbee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/98106f2707c53235d0a21ed9da615a85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/98106f2707c53235d0a21ed9da615a85/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/fc6bbb90ffb626d8424a4a418216b48d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/lurushibata/.gradle/caches/transforms-2/files-2.1/fc6bbb90ffb626d8424a4a418216b48d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/src/debug/AndroidManifest.xml:5:22-75

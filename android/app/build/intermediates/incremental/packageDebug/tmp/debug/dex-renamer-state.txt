@@ -1,0 +1,4 @@
+#Sun Sep 15 17:33:40 BST 2019
+base.0=/Users/lurushibata/Documents/10_PSN_GEN/05_LearningCentre/01_Coding_Web/xyz_Portfolio_Github/GitHub_04_DCMetroLive/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
